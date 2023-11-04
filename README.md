@@ -1,13 +1,8 @@
 # Hi, I'm Khemmaporn👋
 <div align="center">
-  <img src="https://github.com/ssunny-mengg/ssunny-mengg/blob/main/My%20profile%20picture.png" width="200" alt="Profile picture" class="circle">
+  <img src="https://github.com/ssunny-mengg/ssunny-mengg/blob/main/My%20profile%20picture.png" width="200" alt="Profile picture" style="border-radius: 50">
 </div>
 
-<style>
-    .circle {
-        border-radius: 100%;
-    }
-</style>
 <!--
 **ssunny-mengg/ssunny-mengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
