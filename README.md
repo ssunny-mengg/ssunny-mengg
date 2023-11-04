@@ -1,6 +1,6 @@
 # Hi, I'm Khemmaporn👋
 <div align="center">
-  <img src="https://github.com/ssunny-mengg/ssunny-mengg/blob/main/My%20profile%20picture.png" width="200" height="200" alt="Profile picture" style="border-radius: 50%;">
+  <img src="https://github.com/ssunny-mengg/ssunny-mengg/blob/main/My%20profile%20picture.png" width="200" alt="Profile picture" style="border-radius: 100">
 </div>
 
 <!--
