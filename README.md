@@ -1,8 +1,15 @@
 # Hi, I'm Khemmaporn👋
 <div align="center">
-  <img src="https://github.com/ssunny-mengg/ssunny-mengg/blob/main/My%20profile%20picture.png" width="200" alt="Profile picture" style="border-radius: 100">
+  <img src="https://github.com/ssunny-mengg/ssunny-mengg/blob/main/My%20profile%20picture.png" width="200" alt="Profile picture">
 </div>
 
+
+### 📚 About me
+- 🎓 Study at Kasetsart University since 2020
+- 🌐 CNC member
+- :balloon: KBTG intern (2023, May - Oct)
+
+![](https://dcbadge.vercel.app/api/shield/412202632304787457)
 <!--
 **ssunny-mengg/ssunny-mengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
